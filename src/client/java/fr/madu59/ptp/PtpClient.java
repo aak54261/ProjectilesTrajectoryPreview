@@ -336,7 +336,7 @@ public class PtpClient implements ClientModInitializer {
     }
 
     public static boolean isEnabled() {
-        return true;
+        return true; 
     }
 
     public static boolean isEnabled(ProjectileInfo projectileInfo) {
